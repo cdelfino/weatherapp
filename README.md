@@ -44,7 +44,17 @@ Start the server
   npm run start
 ```
 
-
+## Dependencies
+```
+  "dependencies": {
+    "axios": "^1.2.1",
+    "bootstrap-icons": "^1.10.2",
+    "gh-pages": "^4.0.0",
+    "luxon": "^3.1.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+  ```
 ## Built with
 
 - HTML
